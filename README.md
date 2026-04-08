@@ -15,7 +15,7 @@ https://github.com/emimartinha/django-task-manager
 ### Document Management API
 A project focused on managing documents through a REST API.
 Repository:
-https://github.com/emimartinha/Gestor-de-documentos-con-API
+https://github.com/emimartinha/document-management-api
 
 ### Pokemon API
 A project that interacts with Pokémon data through an API.
@@ -27,14 +27,14 @@ https://github.com/emimartinha/PokemonAPI
 ### Word Automation
 A Python project for automating tasks in Microsoft Word.
 Repository:
-https://github.com/emimartinha/Automatizado_Word
+https://github.com/emimartinha/word-automation
 
 ## Web Scraping
 
 ### Web Scraping with Python
 A project for extracting and processing web data using Python.
 Repository:
-https://github.com/emimartinha/WebScraping---Python
+https://github.com/emimartinha/web-scraping-python
 
 ## Author
 
