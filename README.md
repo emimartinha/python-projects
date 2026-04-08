@@ -1,21 +1,40 @@
-# python-projects
+# Python Projects
+This repository contains a collection of my Python projects.
 
-Repositorio que reúne mis proyectos desarrollados en Python.
+## Web Development
+
+### Django Project
+A web application built with Django to practice project structure, app creation, templates, models, migrations, and database integration.
+Repository:
+https://github.com/emimartinha/django-task-manager
 
 ## APIs
 
-- Gestor de documentos con API  
-  https://github.com/emimartinha/Gestor-de-documentos-con-API
+### Document Management API
+A project focused on managing documents through a REST API.
+Repository:
+https://github.com/emimartinha/Gestor-de-documentos-con-API
 
-- Pokemon API  
-  https://github.com/emimartinha/PokemonAPI
+### Pokemon API
+A project that interacts with Pokémon data through an API.
+Repository:
+https://github.com/emimartinha/PokemonAPI
 
-## Automatización
+## Automation
 
-- Automatizado Word  
-  https://github.com/emimartinha/Automatizado_Word
+### Word Automation
+A Python project for automating tasks in Microsoft Word.
+Repository:
+https://github.com/emimartinha/Automatizado_Word
 
 ## Web Scraping
 
-- WebScraping Python  
-  https://github.com/emimartinha/WebScraping---Python
+### Web Scraping with Python
+A project for extracting and processing web data using Python.
+Repository:
+https://github.com/emimartinha/WebScraping---Python
+
+## Author
+
+Emiliano Martinha
+Email: [emimartinha@gmail.com](mailto:emimartinha@gmail.com)
