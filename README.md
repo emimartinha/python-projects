@@ -1,5 +1,7 @@
 # Python Projects
 This repository contains a collection of my Python projects.
+Some comments inside the code may be written in Spanish, as part of my learning process.  
+All documentation and project structure are provided in English.
 
 ## Web Development
 
