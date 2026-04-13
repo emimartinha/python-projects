@@ -10,6 +10,11 @@ A web application built with Django to practice project structure, app creation,
 Repository:
 https://github.com/emimartinha/django-task-manager
 
+### Django Project 2
+A second Django project created using Poetry, focused on reinforcing best practices such as environment management, project initialization, and core Django workflow (migrations, apps, and development server).
+Repository:
+https://github.com/emimartinha/django-project-2
+
 ## APIs
 
 ### Document Management API
